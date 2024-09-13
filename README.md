@@ -1,3 +1,1 @@
 # latihan-branch
-
-Dicoding Academy
